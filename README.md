@@ -1,4 +1,4 @@
-## 👋 Daegyeom KIM
+## 👋 Hi there ~
 Hi, I’m a M.S. degree Student in the Department of Robotics, Kwangwoon University, advised by Yong-Hoon Choi.
 
 ## 👀 Research Interests
