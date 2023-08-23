@@ -14,6 +14,7 @@ Hi, I’m a M.S. degree Student in the Department of Robotics, Kwangwoon Univers
 ## 📑 Publications
 ### 2023
 - [SC VALL-E: Style-Controllable Zero-Shot Text to Speech Synthesizer](https://arxiv.org/abs/2307.10550)
+### 2022
 - [Design and Implementation of Traffic Generation Model and Spectrum Requirement Calculator for Private 5G Network](https://ieeexplore.ieee.org/document/9703352)
   
 <!--
